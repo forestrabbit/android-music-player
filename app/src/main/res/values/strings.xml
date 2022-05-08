@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="state_button_description">更改为列表循环或单曲循环</string>
+    <string name="left_button_description">上一首</string>
+    <string name="play_button_description">播放/暂停</string>
+    <string name="right_button_description">下一首</string>
+</resources>
